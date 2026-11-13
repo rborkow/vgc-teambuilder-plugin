@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "vgc-teambuilder": {
+      "url": "https://api.pokemcp.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "vgc-teambuilder",
+  "displayName": "VGC Teambuilder",
+  "version": "1.0.0",
+  "description": "Pokémon Champions VGC team-building data for your agent: team and move legality, monthly usage statistics and trends, defensive type analysis, and damage and Speed calculations. Read-only, no sign-in.",
+  "author": {
+    "name": "Robert Borkowski"
+  },
+  "homepage": "https://docs.pokemcp.com",
+  "repository": "https://github.com/rborkow/vgc-teambuilder-plugin",
+  "license": "MIT",
+  "keywords": ["pokemon", "vgc", "pokemon-champions", "team-building", "usage-statistics", "mcp"],
+  "logo": "assets/logo.svg"
+}
